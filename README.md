@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/welcome.gif" alt="Bem-vindo, viajante. Código, jogos e RPG." width="100%">
+</p>
+
 # Camila Spangenberg
 
 Estudante de Engenharia de Software na Universidade de Vassouras, em Maricá. Desenvolvo APIs e aplicações web, com backend em Python e interfaces em React.
